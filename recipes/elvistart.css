@@ -1,0 +1,61 @@
+html {background-color:rgb(249, 236, 216);
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;}
+.pic {
+    height: auto;
+    width: 450px;
+    display: block;
+}
+.title {text-align: center; font-size: 44px;}
+.header {display: flex;
+    margin-left: 10%;
+    border: 2px solid powderblue;
+    width: 250px;
+    font-size: 28px;
+    justify-content: center;
+    background-color: lightcyan;}
+    .comp {
+        display: inline-block;
+        height: 100px;
+        width: 40%;
+        margin-top: -60px;
+        margin-bottom: 100px;
+        margin-right: 100 px;
+    }
+    .nana {
+        display: inline-block;
+        height: 250px;
+        width: auto;
+        margin-left: 5%;
+        margin-top: -15px;
+        margin-bottom: -15px;
+        
+    }
+
+    .inst {
+        display: inline-block;
+        height: auto;
+        width: 40%;
+        border: 20px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-right: 100 px;
+    }
+    .brittle {
+        display: inline-block;
+        height: 250px;
+        width: auto;
+        margin-left: 5%;
+        margin-top: -100px;
+        margin-bottom: 55px;
+        
+    }
+
+    .elvis {
+        display: block;
+        border: 30px;
+        margin-left: 20%;
+        margin-top: 10%;
+
+    }

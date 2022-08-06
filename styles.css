@@ -1,5 +1,6 @@
 html {background-color: lavender;}
 .title {color:maroon;
+        text-align: center;
         }
 .pic { 
     display: block;
@@ -21,6 +22,9 @@ html {background-color: lavender;}
     margin-left: auto;
     margin-right: auto;
     background-color:wheat;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
 }
 
 a {color: maroon;
